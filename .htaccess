@@ -1,0 +1,11 @@
+#Options +FollowSymlinks
+RewriteEngine on
+
+RewriteBase /acelsoportes
+
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteCond %{SCRIPT_FILENAME} !-f
+RewriteCond %{HTTP_HOST} ^acelsoportes\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.acelsoportes\.com$
+RewriteRule ^/?$ "https\:\/\/www\.fciempresas\.com\/acelsoportes" [R=301,L]
+#RewriteRule ^(.*)$ index.php?r=$1 [L]

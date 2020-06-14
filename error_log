@@ -1,0 +1,17 @@
+[24-Apr-2020 15:44:36 America/Bogota] PHP Notice:  Undefined index: pvpantes in /home/fciempre/public_html/acelsoportes/index.php on line 128
+[24-Apr-2020 15:44:36 America/Bogota] PHP Notice:  Undefined index: pvpantes in /home/fciempre/public_html/acelsoportes/index.php on line 128
+[24-Apr-2020 15:44:36 America/Bogota] PHP Notice:  Undefined index: pvpantes in /home/fciempre/public_html/acelsoportes/index.php on line 128
+[24-Apr-2020 15:44:36 America/Bogota] PHP Notice:  Undefined index: pvpantes in /home/fciempre/public_html/acelsoportes/index.php on line 128
+[24-Apr-2020 15:44:36 America/Bogota] PHP Notice:  Undefined index: pvpantes in /home/fciempre/public_html/acelsoportes/index.php on line 128
+[24-Apr-2020 16:01:35 America/Bogota] PHP Notice:  Undefined index: pvpantes in /home/fciempre/public_html/acelsoportes/index.php on line 134
+[24-Apr-2020 16:04:10 America/Bogota] PHP Notice:  Undefined index: pvpantes in /home/fciempre/public_html/acelsoportes/index.php on line 134
+[24-Apr-2020 16:04:10 America/Bogota] PHP Notice:  Undefined index: pvpantes in /home/fciempre/public_html/acelsoportes/index.php on line 134
+[24-Apr-2020 16:04:11 America/Bogota] PHP Notice:  Undefined index: pvpantes in /home/fciempre/public_html/acelsoportes/index.php on line 134
+[24-Apr-2020 16:04:12 America/Bogota] PHP Notice:  Undefined index: pvpantes in /home/fciempre/public_html/acelsoportes/index.php on line 134
+[24-Apr-2020 17:24:23 America/Bogota] PHP Notice:  Undefined variable: articulo in /home/fciempre/public_html/acelsoportes/controllers/ArticulosController.php on line 23
+[24-Apr-2020 17:24:23 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/fciempre/public_html/acelsoportes/models/ArticulosModel.php on line 607
+[24-Apr-2020 17:24:23 America/Bogota] PHP Notice:  Undefined variable: descripcion in /home/fciempre/public_html/acelsoportes/models/ArticulosModel.php on line 611
+[24-Apr-2020 17:24:23 America/Bogota] PHP Notice:  Undefined variable: codigo in /home/fciempre/public_html/acelsoportes/models/ArticulosModel.php on line 612
+[28-Apr-2020 20:49:42 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/fciempre/public_html/acelsoportes/index.php on line 155
+[28-Apr-2020 20:49:51 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/fciempre/public_html/acelsoportes/index.php on line 155
+[28-Apr-2020 20:49:56 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home/fciempre/public_html/acelsoportes/index.php on line 155
