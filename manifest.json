@@ -1,0 +1,34 @@
+{
+  "name": "ACEL SOPORTES TV, trabajos de calidad",
+  "short_name": "ACEL SOPORTES TV",
+  "description": "ACEL SOPORTES TV, trabajos de calidad",
+  "background_color": "#EFF1F0",
+  "theme_color": "#EFF1F0",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-CO",
+  "icons": [
+      {
+      "src": "./public/img/logoacelsoportes.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "./public/img/logoacelsoportes1.png",
+      "sizes": "81x61",
+      "type": "image/png"
+    },
+    {
+      "src": "./public/img/logoacelsoportes2.png",
+      "sizes": "144x110",
+      "type": "image/png"
+    },
+    {
+      "src": "./public/img/favico.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ]
+}
